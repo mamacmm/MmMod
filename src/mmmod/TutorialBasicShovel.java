@@ -10,6 +10,7 @@ public class TutorialBasicShovel  extends ItemSpade {
 	public TutorialBasicShovel(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
+		setTextureName("mmmod:jaspershovel");
 	}
 
 }

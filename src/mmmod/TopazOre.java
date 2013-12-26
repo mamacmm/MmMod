@@ -10,6 +10,7 @@ public class TopazOre extends Block {
 	public TopazOre(int par1, String texture) {
 		super(par1, Material.rock);
 		setCreativeTab(TutorialMod.tutorialTab);
+		setTextureName("mmmod:topazore");
 	}
 
 	public int idDropped(int par1, Random par2Random, int par3) {

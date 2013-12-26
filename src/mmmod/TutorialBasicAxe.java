@@ -9,6 +9,7 @@ public class TutorialBasicAxe extends ItemAxe {
 	public TutorialBasicAxe(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
+		setTextureName("mmmod:jasperaxe");
 	}
 
 }

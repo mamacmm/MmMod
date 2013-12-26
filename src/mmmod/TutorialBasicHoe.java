@@ -9,6 +9,7 @@ public class TutorialBasicHoe extends ItemHoe {
 	public TutorialBasicHoe(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
+		setTextureName("mmmod:jasperhoe");
 	}
 
 }

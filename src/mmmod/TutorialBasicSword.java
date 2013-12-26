@@ -9,6 +9,7 @@ public class TutorialBasicSword extends ItemSword {
 	public TutorialBasicSword(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
+		setTextureName("mmmod:jaspersword");
 	}
 
 }
