@@ -16,7 +16,7 @@ A Minecraft Test Mod.
 构建环境
 =====
 
-#下载forge
+** 下载Forge **
 
 * 下载地址：[forge]http://files.minecraftforge.net/
 * 下载文件名称：forge-1.6.4-9.11.1.953-src.zip
