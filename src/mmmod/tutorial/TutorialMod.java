@@ -1,5 +1,6 @@
 package mmmod.tutorial;
 
+import mmmod.core.config.Version;
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.EnumToolMaterial;
@@ -13,7 +14,7 @@ import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 
-@Mod(modid="TutorialMod",name="练习Mod",version="1.0")
+@Mod(modid="MmMod-TutorialMod",name="勐萌的Mod-练习Mod",version=Version.version)
 @NetworkMod(clientSideRequired=true,serverSideRequired=false)
 public class TutorialMod {
 

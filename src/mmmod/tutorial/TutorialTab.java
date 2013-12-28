@@ -1,7 +1,6 @@
 package mmmod.tutorial;
 
 import net.minecraft.creativetab.CreativeTabs;
-import cpw.mods.fml.common.registry.LanguageRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
@@ -21,7 +20,6 @@ public class TutorialTab extends CreativeTabs {
 
 	// sets the title/name for the creative tab
 	public String getTranslatedTabLabel() {
-//		return LanguageRegistry.instance().getStringLocalization("tutorial.tabs.defalut.name");
 		return "勐萌的练习Mod 黄晶";
 	}
 	
