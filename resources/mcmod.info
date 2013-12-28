@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "MmMod",
+  "name" : "MmMod",
+  "version" : "1.0.0",
+  "url" : "http://www.mamacmm.com",
+  "credits" : "",
+  "authors": [
+    "mamacmm"
+  ],
+  "description": "All the things you never thought you will ever need",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}]

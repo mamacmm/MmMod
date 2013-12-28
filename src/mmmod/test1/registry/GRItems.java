@@ -1,8 +1,13 @@
 package mmmod.test1.registry;
 
+import mmmod.test1.item.ItemFrozenWand;
+
 public class GRItems {
 
-	public static void init() { //留空，我们会稍后增加内容
-    }
-	
+	public static ItemFrozenWand frozenWand;
+
+	public static void init() {
+		frozenWand = new ItemFrozenWand(7777);
+	}
+
 }

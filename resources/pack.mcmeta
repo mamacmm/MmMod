@@ -1,0 +1,18 @@
+{
+   "pack":{
+      "pack_format":1,
+      "description":"MmMod"
+   },
+   "language":{
+      "en_US":{
+         "name":"English",
+         "region":"US",
+         "bidirectional":false
+      },
+      "zh_CN":{
+         "name":"Chinese",
+         "region":"China",
+         "bidirectional":false
+      }
+   }
+}

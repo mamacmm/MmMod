@@ -22,8 +22,8 @@ public class GRGenericItem extends Item {
 	 * 方便的快速设置函数。
 	 */
 	protected void setIAndU(String str) {
-		setUnlocalizedName(str);
-		setIconName(str);
+		setUnlocalizedName("mmmod.test1.item."+str);
+		setIconName("mmmod:test1/"+str);
 	}
 
 	/**
