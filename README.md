@@ -30,6 +30,7 @@ A Minecraft Test Mod.
 * 解压forge-1.6.4-9.11.1.953-src.zip到磁盘的一个路径下，注意不要有中文和空格
   例如：解压到 H:\Minecraft\workspace\forge\forge
 * 复制mcp811.zip到forge\fml目录并重命名为mcp8.11.zip
+* 在Forge根目录下建立文件夹 mcp ，并在mcp文件夹下新建文件夹jars，并复制一个已经安装且只安装了minecraft-1.6.4、minecraftforge-1.6.4-9.11.1.953的MC的assets、libraries和versions\1.6.4目录到mcp\jars文件夹下
 
 
 

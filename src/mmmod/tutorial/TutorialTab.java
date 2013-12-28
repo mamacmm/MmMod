@@ -21,7 +21,7 @@ public class TutorialTab extends CreativeTabs {
 
 	// sets the title/name for the creative tab
 	public String getTranslatedTabLabel() {
-//		return LanguageRegistry.instance().getStringLocalization("itemGroup.carpentersBlocks.name");
+//		return LanguageRegistry.instance().getStringLocalization("tutorial.tabs.defalut.name");
 		return "勐萌的练习Mod 黄晶";
 	}
 	
