@@ -1,4 +1,4 @@
-package mmmod;
+package mmmod.tutorial;
 
 import java.util.Random;
 

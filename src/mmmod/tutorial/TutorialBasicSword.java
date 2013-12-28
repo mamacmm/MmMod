@@ -1,4 +1,4 @@
-package mmmod;
+package mmmod.tutorial;
 
 import net.minecraft.item.EnumToolMaterial;
 import net.minecraft.item.ItemPickaxe;
@@ -9,7 +9,7 @@ public class TutorialBasicSword extends ItemSword {
 	public TutorialBasicSword(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
-		setTextureName("mmmod:jaspersword");
+		setTextureName("mmmod:tutorial/jaspersword");
 	}
 
 }

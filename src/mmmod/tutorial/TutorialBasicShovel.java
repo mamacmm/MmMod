@@ -1,4 +1,4 @@
-package mmmod;
+package mmmod.tutorial;
 
 import net.minecraft.item.EnumToolMaterial;
 import net.minecraft.item.ItemPickaxe;
@@ -10,7 +10,7 @@ public class TutorialBasicShovel  extends ItemSpade {
 	public TutorialBasicShovel(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
-		setTextureName("mmmod:jaspershovel");
+		setTextureName("mmmod:tutorial/jaspershovel");
 	}
 
 }

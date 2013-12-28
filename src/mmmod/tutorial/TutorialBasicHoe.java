@@ -1,4 +1,4 @@
-package mmmod;
+package mmmod.tutorial;
 
 import net.minecraft.item.EnumToolMaterial;
 import net.minecraft.item.ItemHoe;
@@ -9,7 +9,7 @@ public class TutorialBasicHoe extends ItemHoe {
 	public TutorialBasicHoe(int ItemID, EnumToolMaterial material) {
 		super(ItemID, material);
 		setCreativeTab(TutorialMod.tutorialTab);
-		setTextureName("mmmod:jasperhoe");
+		setTextureName("mmmod:tutorial/jasperhoe");
 	}
 
 }
