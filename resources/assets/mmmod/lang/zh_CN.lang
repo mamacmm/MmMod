@@ -1,4 +1,7 @@
 # MmMod Language File = Simplified Chinese
 
 # CREATIVE TAB
-itemGroup.mmmod.test1.name=勐萌的Mod 测试1
+itemGroup.mmmod.test1.itemGroup.default.name=勐萌的Mod 测试1
+
+# ITEMS
+item.mmmod.test1.item.frozenwand.name=法杖

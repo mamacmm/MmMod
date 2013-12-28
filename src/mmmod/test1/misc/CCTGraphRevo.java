@@ -1,4 +1,4 @@
-package mmmod.test1.misc.cct;
+package mmmod.test1.misc;
 
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;

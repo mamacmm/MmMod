@@ -3,7 +3,7 @@ package mmmod.test1;
 import java.util.logging.Logger;
 
 import mmmod.core.config.Version;
-import mmmod.test1.misc.cct.CCTGraphRevo;
+import mmmod.test1.misc.CCTGraphRevo;
 import mmmod.test1.proxy.GRCommonProxy;
 import net.minecraft.creativetab.CreativeTabs;
 import cpw.mods.fml.common.FMLLog;
@@ -29,7 +29,7 @@ public class Test1Mod {
     /**
      * 创造模式栏。
      */
-    public static CreativeTabs cct = new CCTGraphRevo("mmmod.test1.name");
+    public static CreativeTabs cct = new CCTGraphRevo("mmmod.test1.itemGroup.default.name");
     
 	@Instance(value = "Test1Mod")
 	public static Test1Mod instance;
