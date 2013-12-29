@@ -32,7 +32,7 @@ public class Test1Mod {
     /**
      * 创造模式栏。
      */
-    public static CreativeTabs cct = new CCTGraphRevo("mmmod.test1.itemGroup.default.name");
+    public static CreativeTabs cct = new CCTGraphRevo("mmmod.test1.default.name");
     
 	@Instance(value = "MmMod-Test1Mod")
 	public static Test1Mod instance;
